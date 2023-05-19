@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Fangtian Zhong
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st January 1995
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
