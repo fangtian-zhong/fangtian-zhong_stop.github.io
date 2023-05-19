@@ -72,27 +72,29 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Graduate Fellowship 
+    - year: 2019/2018
       items: 
-        - Max Planck Medal
+        - Graduate Merit Award
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Software Security.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Malware Analysis.
+        - Software Vulnerability Analysis.
+    - title: Program Analysis.
       items:
-        - Description 1.
-        - Description 2.
-
+        - Reverse Engineering.
+        - Intermediate Representation.
+    - title: Machine Learning for Cybersecurity.
+      items:
+        
+        
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Fly Fish, Road Trips, Hiking, etc.
