@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Fangtian Zhong
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21 Jan 1995
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: George Washington University, Washington, DC, U.S.
+      year: 
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: B.E.
+      institution: Northeast Normal University, Changchun, Jilin, China
+      year: 
       description:
         - Description 1.
         - Description 2.
